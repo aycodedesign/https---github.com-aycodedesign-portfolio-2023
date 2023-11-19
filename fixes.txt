@@ -1,2 +1,8 @@
-BarQode - move "Colors & Fonts" before "Usability Test." 
-*It makes the story flow better to see the colors and fonts before the hi-fi screens
+BarQode 
+- move "Colors & Fonts" before "Usability Test." *It makes the story flow better to see the colors and fonts before the hi-fi screens
+
+
+
+Hero
+- make hero images isometric, and circle behind
+
