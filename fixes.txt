@@ -7,3 +7,7 @@ Hero
 
 Buttons
 - all buttons underline like in the footer
+- centered
+
+Images
+- fonts: change to vertical | font name, characters, example
