@@ -1,6 +1,9 @@
 BarQode 
 - move "Colors & Fonts" before "Usability Test." *It makes the story flow better to see the colors and fonts before the hi-fi screens
+- remove "phone-image", use columns
 
+4cDonations
+- fill in Quotes on Usability testing
 
 Hero
 - make hero images isometric, and circle behind
