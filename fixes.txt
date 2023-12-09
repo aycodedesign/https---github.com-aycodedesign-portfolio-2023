@@ -8,9 +8,9 @@ BarQode
 Hero
 - make hero images isometric, and circle behind
 
-Buttons
-- all buttons underline like in the footer
-- centered
-
 Images
 - fonts: change to vertical | font name, characters, example
+
+General
+- make backgrounds the lightest of main app colors, instead of plain white
+- buttons: all buttons underline like in the footer, and centered
