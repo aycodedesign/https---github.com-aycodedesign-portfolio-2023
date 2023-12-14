@@ -4,6 +4,7 @@ BarQode
 
 4cDonations
 - fill in Quotes on Usability testing
+- change Footer back to white back ground
 
 Hero
 - make hero images isometric, and circle behind
