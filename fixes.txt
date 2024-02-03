@@ -15,3 +15,6 @@ Images
 General
 - make backgrounds the lightest of main app colors, instead of plain white
 - buttons: all buttons underline like in the footer, and centered
+
+FilmVote
+- "Solution: I created a toggle between... highlight the toggles
