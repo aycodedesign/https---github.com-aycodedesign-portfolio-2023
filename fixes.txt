@@ -1,20 +1,39 @@
-BarQode 
-- move "Colors & Fonts" before "Usability Test." *It makes the story flow better to see the colors and fonts before the hi-fi screens
-- remove "phone-image", use columns
+** Change subheadings to left-justify, match up with major headings, and put paragraphs underneath
+** Change Understanding the user to User Research
 
-4cDonations
-- fill in Quotes on Usability testing
-- change Footer back to white back ground
+BARQODE:
+-Research Summary:
+My goal was to determine if features like social sharing, mobile payments, and money transfers could be effectively integrated into a retro arcade setting.
 
-Hero
-- make hero images isometric, and circle behind
+To understand how modern mobile technology could enhance the arcade experience, I interviewed 5 adults aged 25-50 who regularly use mobile devices for social interactions, payments, and planning group activities.
 
-Images
-- fonts: change to vertical | font name, characters, example
+RESEARCH RESULTS:
+My user study identified the following key pain points:
 
-General
-- make backgrounds the lightest of main app colors, instead of plain white
-- buttons: all buttons underline like in the footer, and centered
+Purchase Flexibility: Users desire the option to purchase either game tokens or digital game credits.
+Token Distribution: Frequent players and groups find distributing tokens cumbersome.
+Activity Tracking: stat nerds lack a way to track their arcade habits and high scores.
 
-FilmVote
-- "Solution: I created a toggle between... highlight the toggles
+---
+
+COMPETITIVE ANALYSIS
+
+A comparison of 4 local and national arcade venues revealed variations in pay systems, mobile apps, and rewards programs.
+
+Dave & Buster’s: Offers a convenient Power Card for rewards but lacks social sharing features.
+EightyTwo: Focuses on adult-oriented gaming but lacks a mobile app or rewards system.
+Lucky Strike Lanes: Prioritizes bowling and family-friendly entertainment, with limited arcade features.
+Neon Retro Arcade: Provides an all-you-can-play model but caters to a younger demographic and lacks an online presence.
+
+
+Opportunities
+
+Hybrid Payment: Offer both digital mobile payments and a token system.
+Gamer Rewards: Implement a rewards program that allows users to earn points off-site.
+Responsive Website: Ensure the website is fully responsive and offers the same functionality as the mobile app.
+
+LO-FI USABILITY TESTING
+** remove the write-up, include the bulletpoints in heading, and explain below that
+
+FOLLOWING STEPS
+change this to the #F8F8FF font to wrap up into footer
